@@ -1,0 +1,9 @@
+Video Tape Measure was created with the intention of being freely shared and distributed.
+
+(c) 2020, Chip Shand 
+
+Video Tape Measure software incorporates the following open source packages that are distributed with a variety of different licenses:  They are:
+    - Python: GPL-Compatable Licence.  See https://docs.python.org/3/license.html
+    - PyQt: :GPL license.  See https://www.qt.io/licensing/
+    - OpenCV: 3-clause BSD License.  See https://opencv.org/license/
+    - FFmpeg: LGPL license.  See https://www.ffmpeg.org/legal.html  
