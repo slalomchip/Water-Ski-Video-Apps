@@ -1,10 +1,6 @@
 Welcome to Video Stopwatch!
 
-
-If you want to use the second display and the video does not display,
-the issue is probably due to missing codecs.  This can be resolved by 
-installing the K-Lite codec pack.  This codec pack can be found at 
-https://codecguide.com/download_kl.htm 
+The K-Lite Codec package is no longer required for running the second display.
 
 Please read the short manual that is embedded within the program. It 
 can be found in the “Info” pulldown menu. A tutorial video 
